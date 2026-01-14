@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "f5UJd+IN",
+  "version": "HEZ30oVa",
   "assets": [
     {
       "hash": "sha256-iUS5EVlj6Lyv1ARxzRnH4YZhv7zVWgVgp0pFjtFtpYg=",
@@ -34,11 +34,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt.Net-Next.wasm"
     },
     {
-      "hash": "sha256-ncP6M1JN8Wg3dunQMuZ22qpwWnMwynnxmIuNLX9G0SA=",
+      "hash": "sha256-bOu2akFxq1hwLPGIaaOIkZBW9YUVN9qTX6yOxkP6ROU=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-y5JQWb32Z+jPx2Oad5hCbAJ7IrtpaP3e40IFovCB3MM=",
+      "hash": "sha256-JX/lHn8rKleE018GWvr1qVuWKbP/kaJjrUBXjtxC3lo=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -56,6 +56,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-jq/r4el6HAYseNRFx0YCP33lgsHkibPX8dBt8qMOivU=",
       "url": "_framework/CryptoNet.wasm"
+    },
+    {
+      "hash": "sha256-SgaoWzIAmM4u3qGQo/lBpv+u5b60Lkq/49goCMIpdEA=",
+      "url": "_framework/FluentFTP.wasm"
     },
     {
       "hash": "sha256-sQnvcAtUeRrp/EWc52rziUXltWQhUBCAv/V77K+PsIg=",
@@ -1054,7 +1058,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-lIpFgpT/pJTCt7Yj79Yl0MoG+rzDtbLtn8xRL3ufYnw=",
+      "hash": "sha256-SrcLDfrTe0IDVRc48MT8o9mnpGVmhWFqh9Nk+EWq4z4=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1062,7 +1066,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-IsDzqOcFjxuLzi0d/YuPIHfqgzZZDEwL+TykkV5FyrQ=",
+      "hash": "sha256-2QL3HGNpQfeWGYB2Qxo+oZTisg7W/duhdPAAuobX3Dw=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
