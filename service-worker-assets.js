@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "cxy/P2pj",
+  "version": "oOyLD909",
   "assets": [
     {
       "hash": "sha256-iUS5EVlj6Lyv1ARxzRnH4YZhv7zVWgVgp0pFjtFtpYg=",
@@ -34,16 +34,28 @@ self.assetsManifest = {
       "url": "_framework/BCrypt.Net-Next.wasm"
     },
     {
-      "hash": "sha256-p2gLeZl5kigJEWMkm57PsMI5Lq1+PTw500sS8fNX5po=",
+      "hash": "sha256-1ZmLGn8/D3FjFdp4aZBGsb1MaEQxiabHxjEuyM1al1o=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-WwcDg6b3Wo43vjmntQNlmzb5TXhRA+WdGn1KAmJ+hRM=",
+      "hash": "sha256-R4fLN5Vm4HAi+6Efka7F3MtfjmqDSbxFvC3Y6IoTadc=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
       "hash": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "url": "_framework/Blazored.LocalStorage.wasm"
+    },
+    {
+      "hash": "sha256-940hEYXuPqtA6ttu0PSApeSJsLo8EthPdMoUwsxeRIE=",
+      "url": "_framework/CryptoNet.ExtShared.wasm"
+    },
+    {
+      "hash": "sha256-y7L7Zji3i2ywtIgUVxzeW8FbtSHz6UitmuudKsciqhc=",
+      "url": "_framework/CryptoNet.Models.wasm"
+    },
+    {
+      "hash": "sha256-jq/r4el6HAYseNRFx0YCP33lgsHkibPX8dBt8qMOivU=",
+      "url": "_framework/CryptoNet.wasm"
     },
     {
       "hash": "sha256-sQnvcAtUeRrp/EWc52rziUXltWQhUBCAv/V77K+PsIg=",
@@ -1042,7 +1054,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-AraiUOmGvpQXFCx4r/9AhX4rcrQvQSt3F9lI8D1nP10=",
+      "hash": "sha256-h1oupTxpWcjLfCHKwyHeSGqbkKu0dIZ3tj+YYOJjDlk=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1050,7 +1062,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-uypnuahNJgl7nFx/AhptaeEFNrYwL8f7hMxUsFhNYX4=",
+      "hash": "sha256-IsDzqOcFjxuLzi0d/YuPIHfqgzZZDEwL+TykkV5FyrQ=",
       "url": "_framework/dotnet.native.wasm"
     },
     {

@@ -1,4 +1,4 @@
-/* Manifest version: cxy/P2pj */
+/* Manifest version: oOyLD909 */
 self.addEventListener('install', event => {
     console.log('Service Worker installed');
 });
