@@ -1,4 +1,4 @@
-/* Manifest version: W0dnERWq */
+/* Manifest version: fpbpq0bo */
 self.addEventListener('install', event => {
     console.log('Service Worker installed');
 });
