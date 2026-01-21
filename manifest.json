@@ -1,10 +1,10 @@
 {
   "name": "BVRWeb.SiteWork",
-  "short_name": "BVRWSite",
+  "short_name": "BVRSW",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#03173d",
+  "theme_color": "#0055aa",
   "icons": [
     {
       "src": "icon-192.png",
