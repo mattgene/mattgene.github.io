@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "3m+1wk7K",
+  "version": "JeX8mMaj",
   "assets": [
     {
       "hash": "sha256-iUS5EVlj6Lyv1ARxzRnH4YZhv7zVWgVgp0pFjtFtpYg=",
@@ -34,11 +34,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt.Net-Next.wasm"
     },
     {
-      "hash": "sha256-BAbMb2I95L4EXqEXo4LWdy7+nS+r6Cov45rQ7MJQqZA=",
+      "hash": "sha256-JggM/ynniw0pH9ibCPB+RNvH3jqpsb03aQIH9uBkC0E=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-iKjwU+ARian5r1QGOAWHsWTDtEgNmQe1Qv3AT88mM48=",
+      "hash": "sha256-fTAKu0S0NIaDvx4CJ3tJiNT0P1AvXwpSVYBlMFTz/9A=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -1058,7 +1058,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-hswyYBqZHnHLOYl2wrPCIAbGZsymxNIjm1iADyu7O+I=",
+      "hash": "sha256-oVtA+xTeMxUE+WXgbLSFqXa92QBRWOsfi3Ke0tRdxT0=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1098,7 +1098,7 @@ self.assetsManifest = {
       "url": "apple-touch-icon.png"
     },
     {
-      "hash": "sha256-n08+96hxh6jvWUbZuZRNQUcNLeRG1mHhoW+aSOw5TSU=",
+      "hash": "sha256-Aas/IH8+ks0rXhp62dqccH7nmrSQN+trzynrJLZlgmM=",
       "url": "appsettings.Development.json"
     },
     {
