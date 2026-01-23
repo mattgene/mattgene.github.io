@@ -1,0 +1,11 @@
+/* /Pages/ActivityList.razor.rz.scp.css */
+.empty-state-container[b-nsvakj07u5] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    text-align: center;
+    color: var(--mud-palette-text-secondary);
+    gap: 1rem;
+}
