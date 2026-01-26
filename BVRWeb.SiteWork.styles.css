@@ -1,5 +1,5 @@
-/* /Pages/ActivityList.razor.rz.scp.css */
-.empty-state-container[b-nsvakj07u5] {
+/* /Components/EmptyState.razor.rz.scp.css */
+.empty-state-container[b-c534qvwbds] {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -9,6 +9,12 @@
     color: var(--mud-palette-text-secondary);
     gap: 1rem;
 }
+
+.empty-state-container.compact[b-c534qvwbds] {
+    padding: 1rem;
+    gap: 0.5rem;
+}
+/* /Pages/ActivityList.razor.rz.scp.css */
 /* /Pages/ActivityWork.razor.rz.scp.css */
 .page-container[b-g8qrj3i6eh] {
     margin: 0;
