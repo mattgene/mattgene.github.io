@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "QJLoZdlw",
+  "version": "PCBQXh9t",
   "assets": [
     {
-      "hash": "sha256-HgwplVq5Wzv59Mrz5YeczuCJ45CesCRMtMNnTOwRFps=",
+      "hash": "sha256-r3OEsHxTisWtStdNHof9GUBxj6OSZtoFhlnmtQeknxM=",
       "url": "BVRWeb.SiteWork.styles.css"
     },
     {
@@ -42,11 +42,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt.Net-Next.wasm"
     },
     {
-      "hash": "sha256-eMju2vzcQB8eyRKWPf7mIYZy+5Tfblwa2GHTBWGq3mo=",
+      "hash": "sha256-/ARLrbhZD//5f9uzk5m8AVtRa2HVowvMo+NAOIfyTlQ=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-LfNVIjy+zygGNBCV73q38BVX6vkGWQ2BE0Vx6DHN/8A=",
+      "hash": "sha256-1jxQBflcPRTLVagBF63CgtK3IwO753iNAEDCJrBkGyA=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -1070,7 +1070,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-oXbIlk3YcDLeJm+RUTEJ37QaxJ2Q7j5wJ8DvBZgnJAs=",
+      "hash": "sha256-LMUrMGmdbIgR7/MXMT1u87vLR8tABZCTqucFjrz7NMQ=",
       "url": "_framework/dotnet.js"
     },
     {
