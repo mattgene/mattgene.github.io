@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "1cojh3ER",
+  "version": "ZrzJvmE3",
   "assets": [
     {
       "hash": "sha256-r3OEsHxTisWtStdNHof9GUBxj6OSZtoFhlnmtQeknxM=",
@@ -42,11 +42,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt.Net-Next.wasm"
     },
     {
-      "hash": "sha256-Bl/o6rO5KDeFa7zj8TM6+1eKMwdK/IXB5V0otc145rk=",
+      "hash": "sha256-ZaLHr5PnAQvPnaQJQ1ApYose/7zqqlnq5ZwnpdKnSeY=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-IPsgMDrT+aDcOJmDE5nHIYzSTs4xKR8lIvYxmd5TAEs=",
+      "hash": "sha256-XgN55BR0sEMdVqjfHk8YO2JFoWvCu6MxBbGP0b2mrao=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -1070,7 +1070,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-ZbdaGI2H3VOirpXnx28m9iquzRYy85espjKoxhobId4=",
+      "hash": "sha256-US8bXDy9DGpI/xwoqeoZcZW5AL4nm+7qZrTquCHAnns=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1154,7 +1154,7 @@ self.assetsManifest = {
       "url": "js/BvrImageStorage.js"
     },
     {
-      "hash": "sha256-Wn57eXZ+prxYhK3j3FJ0ToWs4RmCBbw1z+qDmtLrfaM=",
+      "hash": "sha256-lLEF1haAGQiWzRz0zl7tNzdraDiQhGtzVnupQqqlIM0=",
       "url": "js/storageHelper.js"
     },
     {
