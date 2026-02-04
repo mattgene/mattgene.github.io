@@ -76,8 +76,34 @@
             }
         };
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });
+            navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' }).then(registration => {
+                registration.onupdatefound = () => {
+                    const installingWorker = registration.installing;
+                    installingWorker.onstatechange = () => {
+                        if (installingWorker.state === 'installed') {
+                            if (navigator.serviceWorker.controller) {
+                                // 發現新版本！發送自定義事件給 Blazor
+                                window.dispatchEvent(new CustomEvent('PWA_UPDATE_AVAILABLE'));
+                            }
+                        }
+                    };
+                };
+            });
         }
+        window.updatePWA = () => {
+            navigator.serviceWorker.getRegistration().then(reg => {
+                if (reg && reg.waiting) {
+                    // 通知 SW 跳過等待
+                    reg.waiting.postMessage({ type: 'SKIP_WAITING' });
+                    reg.waiting.addEventListener('statechange', e => {
+                        if (e.target.state === 'activated') {
+                            window.location.reload();
+                        }
+                    });
+                }
+            });
+        };
+
     </script>
 </body>
 

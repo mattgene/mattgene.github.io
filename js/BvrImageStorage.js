@@ -1,12 +1,17 @@
 window.bvrImageStorage = {
     db: null,
+    dbVersion: 1,
     initDB: function () {
         return new Promise((resolve, reject) => {
             if (this.db) {
                 resolve();
                 return;
             }
-            const request = indexedDB.open("BvrImageCacheDB", 1);
+            const request = indexedDB.open("BvrImageCacheDB", this.dbVersion);
+            request.onblocked = function () {
+                console.warn("資料庫升級被封鎖，請關閉其他分頁/App再重試");
+                alert("請關閉所有相關網頁，以完成系統更新。");
+            };
             request.onupgradeneeded = (event) => {
                 const db = event.target.result;
                 if (!db.objectStoreNames.contains("images")) {
@@ -15,9 +20,16 @@ window.bvrImageStorage = {
             };
             request.onsuccess = (event) => {
                 this.db = event.target.result;
+                this.db.onversionchange = () => {
+                    this.db.close();
+                    this.db = null;
+                    alert("系統已在其他分頁更新，請重新載入此頁面。");
+                    location.reload();
+                };
                 console.log("BvrImageCacheDB initialized");
                 resolve();
             };
+            
             request.onerror = (event) => {
                 console.error("IndexedDB error:", event.target.error);
                 reject(event.target.error);
@@ -80,4 +92,5 @@ window.bvrImageStorage = {
             request.onerror = (e) => reject(e.target.error);
         });
     }
+    
 };
