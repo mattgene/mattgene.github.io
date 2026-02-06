@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "WSPyGE32",
+  "version": "2Y0e8AiM",
   "assets": [
     {
       "hash": "sha256-r3OEsHxTisWtStdNHof9GUBxj6OSZtoFhlnmtQeknxM=",
@@ -42,11 +42,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt.Net-Next.wasm"
     },
     {
-      "hash": "sha256-74QHr63ZJFH1qlloJbHG6Z4JGPddkt4jCyNOw8o64H8=",
+      "hash": "sha256-G0PP+yCk6K59Yoseydxg7dx8cbyu7RwArth/Zy//gOY=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-Ff7mzwfMjjGoQu2rGZUnf6loJ0nvpNoPMa+UbahA1RM=",
+      "hash": "sha256-YM6GFSNjADi7b4KbnleKADPbblltgbvvHU1XlPuzY8s=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -1070,7 +1070,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-9ekeBAfPFoV3DvYzZ9UtF0yhRA0PyVcSS/hQHtnfVtU=",
+      "hash": "sha256-q+s4jdQtpYo/t/mvOUmLlSG5wq5vw9DGWJ1qlD5NQc0=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1110,11 +1110,11 @@ self.assetsManifest = {
       "url": "apple-touch-icon.png"
     },
     {
-      "hash": "sha256-Aas/IH8+ks0rXhp62dqccH7nmrSQN+trzynrJLZlgmM=",
+      "hash": "sha256-N9sQ8fnLkWV53NRpJX03S2dC6inzHmHe/P4ctKtfSbI=",
       "url": "appsettings.Development.json"
     },
     {
-      "hash": "sha256-H6OSYLGZWR5eoKIBZjHHBGNdhZqdGRoBSTAC8PgeFO8=",
+      "hash": "sha256-AGGA0h7ERB9LVorT1PHyCiiZk/R3NDZ4DULMjl4H2sA=",
       "url": "appsettings.Production.json"
     },
     {
@@ -1124,6 +1124,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-eEVq+4MpcgpkHwTKa5qQ4jJtEF8+rnMQzphq+2J+Y18=",
       "url": "css/app.css"
+    },
+    {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": "css/markerTypes.css"
     },
     {
       "hash": "sha256-ry4wnzs2go+UP7nUxHGikcp+CXFfK+CPM6QIsc1psXk=",
@@ -1154,7 +1158,7 @@ self.assetsManifest = {
       "url": "js/BvrImageStorage.js"
     },
     {
-      "hash": "sha256-6qFLI8HRHILSMsA6PXTkckR62hv9YEF+qRsIGXa+Sag=",
+      "hash": "sha256-U5WKdrIFj4G3oJx2u0ApYIpm9xUVvQ3ir17bx2yakaE=",
       "url": "js/gdriveHelper.js"
     },
     {

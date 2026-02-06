@@ -1,4 +1,4 @@
-/* Manifest version: WSPyGE32 */
+/* Manifest version: 2Y0e8AiM */
 // 監聽安裝事件
 self.addEventListener('install', event => {
     console.log('Service Worker: Installing...');
