@@ -8,6 +8,17 @@
     cursor: pointer;
     /* Default background, can be overridden */
     background-color: var(--mud-palette-info);
+
+    /* Reset button styles */
+    border: none;
+    padding: 0;
+}
+
+.marker-shape:focus-visible {
+    /* Ensure keyboard focus is visible, even with transform */
+    outline: 2px solid var(--mud-palette-primary);
+    outline-offset: 2px;
+    z-index: 30; /* Bring focused element to top */
 }
 
 .marker-shape:hover {

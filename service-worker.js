@@ -1,4 +1,4 @@
-/* Manifest version: HCeBKeyi */
+/* Manifest version: t4D2U+I2 */
 // 監聽安裝事件
 self.addEventListener('install', event => {
     console.log('Service Worker: Installing...');
