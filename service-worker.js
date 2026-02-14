@@ -1,4 +1,4 @@
-/* Manifest version: iOnSSuk7 */
+/* Manifest version: Ls9JaHUn */
 // 監聽安裝事件
 self.addEventListener('install', event => {
     console.log('Service Worker: Installing...');
