@@ -8,7 +8,7 @@ window.gdriveHelper = {
         try {
             tokenClient = google.accounts.oauth2.initTokenClient({
                 client_id: clientId,
-                scope: 'https://www.googleapis.com/auth/drive.file', // 僅限存取此 App 建立的檔案
+                scope: 'https://www.googleapis.com/auth/drive.readonly', // The scope drive.readonly was chosen over drive.file to allow cross-service file visibility (Jumper service to WASM client).
                 callback: (tokenResponse) => {
                     if (tokenResponse && tokenResponse.access_token) {
                         accessToken = tokenResponse.access_token;
