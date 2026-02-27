@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "5VZVh05K",
+  "version": "kgHrxklX",
   "assets": [
     {
-      "hash": "sha256-r3OEsHxTisWtStdNHof9GUBxj6OSZtoFhlnmtQeknxM=",
+      "hash": "sha256-Lx7YCf7dQwllUsj6ayM9EaqmpdGyh2Z6jXMKurRwKO8=",
       "url": "BVRWeb.SiteWork.styles.css"
     },
     {
@@ -42,11 +42,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt.Net-Next.wasm"
     },
     {
-      "hash": "sha256-3Qyr/wWWWeBDWXdzNjoG21j8Ci/fR3OLhRBYm1eauqw=",
+      "hash": "sha256-eL3VgkFH2lGwxbSUQBwuQnsDy2LTklFqwDHEQM1Aqyo=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-n31ZXzduOhfsxaK/6oPesDtiK2noQKQEhnilfKOL+Vo=",
+      "hash": "sha256-WtZ9vsDldTBi9K7RzBnnheYefJhDoC8EaP8TgV8kaco=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -1070,7 +1070,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-qH2WTOx/f4pzkvnA1GIIpZ5Z/PUX4itT5yS43ie2GSs=",
+      "hash": "sha256-eVkE8UhFAKbXH0DioCL9YCbSIJ62rp9yfAqKckFBkmE=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1078,7 +1078,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-Dm6bpfy1gxEO/klrQ0ptnnjJ4mHSo2rf8mdoFp3n9/0=",
+      "hash": "sha256-XoXeYRrloLPBezZs0HsAgaoZcKL5x0rZiErG6B8GjX0=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
@@ -1126,8 +1126,8 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-JidbqR91B0kSItopaAI+91EndMKtyg1NsvKTSChPHIQ=",
-      "url": "css/createActivity.css"
+      "hash": "sha256-ztufFtJM92LXB0UOGGiyEBy+IuaiSwU2mG1YoxolvD0=",
+      "url": "css/keyFrames.css"
     },
     {
       "hash": "sha256-18NvS4hhZDpL1OvWVbenV+wH166JOiXC5VJIQOmRgvA=",
@@ -1158,7 +1158,7 @@ self.assetsManifest = {
       "url": "images/WorkTools_sm.png"
     },
     {
-      "hash": "sha256-t884Suo78PSQS5Rexw3KVD9l3VWgjFe6KQ9TKc5vLJI=",
+      "hash": "sha256-3D2V7pH5J90szmxjyKrT9+EnO5KDx4cpS+lyQI1e+MQ=",
       "url": "index.html"
     },
     {
