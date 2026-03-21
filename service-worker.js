@@ -1,4 +1,4 @@
-/* Manifest version: 3ac1+YPF */
+/* Manifest version: oIhp5usb */
 // 監聽安裝事件
 self.addEventListener('install', event => {
     console.log('Service Worker: Installing...');
