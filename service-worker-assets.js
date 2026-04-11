@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "6WWQluRs",
+  "version": "y7kZxBcF",
   "assets": [
     {
       "hash": "sha256-Lx7YCf7dQwllUsj6ayM9EaqmpdGyh2Z6jXMKurRwKO8=",
@@ -42,11 +42,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt.Net-Next.wasm"
     },
     {
-      "hash": "sha256-s/kBERa/Qc6VxmWgroCfbfMzZz8C+/rXTYY6tE7L3W8=",
+      "hash": "sha256-44YYXD/IQftOLrHaMO+uBZfwWmgUzcdz/HztS708Tc0=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-gwbMFbMDRpen3x81EDsMimkQ+vZb2qxZn03Reo1rBL0=",
+      "hash": "sha256-UmIMhlcP9l6x0Ts6rAhj00sSuAYtnPTg/tx2j7s4V/M=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -68,6 +68,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-SgaoWzIAmM4u3qGQo/lBpv+u5b60Lkq/49goCMIpdEA=",
       "url": "_framework/FluentFTP.wasm"
+    },
+    {
+      "hash": "sha256-TIen2oHWnNk1fnQ+lYSzxw/vFAaDRanR8IySMtoZYpk=",
+      "url": "_framework/FuzzySharp.wasm"
     },
     {
       "hash": "sha256-sQnvcAtUeRrp/EWc52rziUXltWQhUBCAv/V77K+PsIg=",
@@ -1070,7 +1074,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-HzKWyi3EumpwfiT0qmAIGj3tA4TYwrUbG6moyRDIxpc=",
+      "hash": "sha256-/fXKEh3cwrsx2MaZjKr3Wz+Y2uvb/P91D3/W3NIGaUM=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1078,7 +1082,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-0QXDzCeg98zCbHlgticx5HjLrbu2kuVZcwtdUXn3C8k=",
+      "hash": "sha256-9+m43FaBL0QHvaNmnK8Omzn0Tb8e7B+TJ5Sz9Q8FOoA=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
@@ -1166,7 +1170,7 @@ self.assetsManifest = {
       "url": "js/BvrImageStorage.js"
     },
     {
-      "hash": "sha256-d0HQ73QSxllBNXtOZmD6VrgDHnp1ARE5pPOYSC4XR1c=",
+      "hash": "sha256-LIsXdXQhxwHA9TcPOmsunUwh3b1s8l9CZQACrHW8mWk=",
       "url": "js/gdriveHelper.js"
     },
     {
