@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "DLd0IMrv",
+  "version": "zSHMIMUj",
   "assets": [
     {
       "hash": "sha256-Lx7YCf7dQwllUsj6ayM9EaqmpdGyh2Z6jXMKurRwKO8=",
@@ -38,15 +38,15 @@ self.assetsManifest = {
       "url": "_content/SqliteWasmBlazor/sqlite3.wasm"
     },
     {
-      "hash": "sha256-lm8OnqeLaieceeTvLvUcNNBimZtHhYYHLPKKFecKiBE=",
-      "url": "_framework/BCrypt.Net-Next.wasm"
+      "hash": "sha256-K0Ldnw7bS9cyXYOKZHSkQtIiNrl63wF1xqSKX2vFyP0=",
+      "url": "_framework/BCrypt-Net-Next.wasm"
     },
     {
-      "hash": "sha256-pwLHwNk5qvwN6atdUOGT9KS2CS5zOhGu3B1JsuRz9vM=",
+      "hash": "sha256-UrscjfxgN5VqfnPctCgqJhpQLf1Wk1cLlFKIZxVosh0=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-Ui+UZF0Mbo4Fo38Tb5CUDvvIJTbSMnilotXT8s5MaRI=",
+      "hash": "sha256-cQd3RsvIHVf7gnQWKXPXezenmTIBFJoLLvx4DBWPWOo=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -90,7 +90,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Authentication.Abstractions.wasm"
     },
     {
-      "hash": "sha256-l9JFTlQeou24it5z/wN5pLncCEvGXIhHTExQWTO548U=",
+      "hash": "sha256-HCGWgPnIMB+YpkR639LJeljdMsHO/0WLfDBWSrBeU7E=",
       "url": "_framework/Microsoft.AspNetCore.Authentication.Cookies.wasm"
     },
     {
@@ -146,7 +146,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.DataProtection.wasm"
     },
     {
-      "hash": "sha256-EBu0K8SFe/KbDl6H4PhdQZcfOWBAQS9MiNm+0jjq0xo=",
+      "hash": "sha256-HDGf8ho7XMSN7CFuqImwY6aAo2TKXoev3pe5VaAlTB4=",
       "url": "_framework/Microsoft.AspNetCore.Hosting.Abstractions.wasm"
     },
     {
@@ -174,7 +174,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Identity.EntityFrameworkCore.wasm"
     },
     {
-      "hash": "sha256-m8uwdGLh0yoQJgrJecy7yfRXOD4chtRWcdsrmp9w7bI=",
+      "hash": "sha256-BvP86HE1F4FEEweG/H5EOYdp32TMO2cYr8bcK/4R0cY=",
       "url": "_framework/Microsoft.AspNetCore.Identity.wasm"
     },
     {
@@ -1074,7 +1074,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-PivBr9QEyR8d+r8JZrcpxMkdhWAgQgtSrc9NHSLO9sw=",
+      "hash": "sha256-gSwUFzphvP3O6lvZzEL7gnkyPKAIHaPufbGVFh6jPCQ=",
       "url": "_framework/dotnet.js"
     },
     {
