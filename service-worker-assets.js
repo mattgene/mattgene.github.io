@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Sj0xCpxM",
+  "version": "tC3ztBax",
   "assets": [
     {
       "hash": "sha256-Lx7YCf7dQwllUsj6ayM9EaqmpdGyh2Z6jXMKurRwKO8=",
@@ -42,11 +42,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt-Net-Next.wasm"
     },
     {
-      "hash": "sha256-jX69m8UcDOtD6ei/GqtTAUkLVtk/PVGlgrXFAmChFLE=",
+      "hash": "sha256-yJFOLwQDsLOhcck/3AYS0X2yGz3KuBWcte0j8lUos9w=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-SE0GObAC3SC855sixHd9nFNyJEkcjdN9KlUJ/3Rb4j8=",
+      "hash": "sha256-TciNaHRMEO42SsGGpPBLUd0H6TNlw9sepOWc6ZGC7Mw=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -1074,7 +1074,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-WhWxg7CkhAebFFY44BH6YCi3IdNE7q78/bkBoYZQQfc=",
+      "hash": "sha256-EWAFfz2cIjXTtfRmQirFQj6MfwEW04obK5IwrFUxgCs=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1082,7 +1082,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-ymIa59uauZenujQO7L/rrv5b/9TCQY6Tx6X7XP5XeMs=",
+      "hash": "sha256-zMm3gGqDZlw+hVq7QdYXswnEMrDYdJs9Mxz/fMwdTGI=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
