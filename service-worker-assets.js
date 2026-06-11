@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Vyra5nCn",
+  "version": "xYk7f5so",
   "assets": [
     {
       "hash": "sha256-Lx7YCf7dQwllUsj6ayM9EaqmpdGyh2Z6jXMKurRwKO8=",
@@ -42,11 +42,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt-Net-Next.wasm"
     },
     {
-      "hash": "sha256-tlSk48StX+dSgo0C7s1KyhFk4+wuZpcfsRGpM+DK/As=",
+      "hash": "sha256-ISwRzhIeV+AV8V5S6evti5j8yEFxs2a6HIc+YT4JPwg=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-5uCVqdobTRZXciIZWMBoA1KVuRkqlw8schVvn59VCpg=",
+      "hash": "sha256-q0UtdzhlvfArdqL5i86v0d/VvWwEF6yBMi5zD8eXPgs=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -1074,7 +1074,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-kavEP0QQsLy1d/u485XmrcQycvGONuFJCiZADWZ6BJ4=",
+      "hash": "sha256-IvmW8/4NNLA1leB/y78EqJt+NAt0Te5hc6ZSY5DuFfU=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1170,7 +1170,7 @@ self.assetsManifest = {
       "url": "js/BvrImageStorage.js"
     },
     {
-      "hash": "sha256-LIsXdXQhxwHA9TcPOmsunUwh3b1s8l9CZQACrHW8mWk=",
+      "hash": "sha256-78VJhA05hsXgfd0CQnX5w4MGTklBiqVZG3K99T8MHCk=",
       "url": "js/gdriveHelper.js"
     },
     {
