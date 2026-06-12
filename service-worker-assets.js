@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "xYk7f5so",
+  "version": "VyJr6i68",
   "assets": [
     {
       "hash": "sha256-Lx7YCf7dQwllUsj6ayM9EaqmpdGyh2Z6jXMKurRwKO8=",
@@ -42,11 +42,11 @@ self.assetsManifest = {
       "url": "_framework/BCrypt-Net-Next.wasm"
     },
     {
-      "hash": "sha256-ISwRzhIeV+AV8V5S6evti5j8yEFxs2a6HIc+YT4JPwg=",
+      "hash": "sha256-m/XvzGV6Gr0nb3Y3zRWQ3Uur1bqAv6s2p5paJRYn4Mg=",
       "url": "_framework/BVRWeb.DataAccess.wasm"
     },
     {
-      "hash": "sha256-q0UtdzhlvfArdqL5i86v0d/VvWwEF6yBMi5zD8eXPgs=",
+      "hash": "sha256-dMWj4KxETlEZWNfP3zZJ4OrdrNb7Wnmi4RmlnCQj1/0=",
       "url": "_framework/BVRWeb.SiteWork.wasm"
     },
     {
@@ -78,11 +78,11 @@ self.assetsManifest = {
       "url": "_framework/ICSharpCode.SharpZipLib.wasm"
     },
     {
-      "hash": "sha256-RrNQNbVnCNdsklKGi/BF4Chz1x0rfDKKUFQys+Q+DaQ=",
+      "hash": "sha256-gZpTzx0xAHITC4z/x95tP5lzTUKgGk0rh3rbYcGVcz0=",
       "url": "_framework/MessagePack.Annotations.wasm"
     },
     {
-      "hash": "sha256-bocUQb1muRhukge3onc7s34MnV7uDbNOKzWDVO/n1K8=",
+      "hash": "sha256-2SyKtv0JCbJllVxztq1Zk7LC0fxH63ZETmBWZDym1yY=",
       "url": "_framework/MessagePack.wasm"
     },
     {
@@ -1074,7 +1074,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-IvmW8/4NNLA1leB/y78EqJt+NAt0Te5hc6ZSY5DuFfU=",
+      "hash": "sha256-LehExsLrjxzzFlixmrA8ZoAiXC1TfRjRANywH60SYPg=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1166,7 +1166,7 @@ self.assetsManifest = {
       "url": "index.html"
     },
     {
-      "hash": "sha256-v+hilWzUekOQGQueKc57Ug43zILgF+FwIGb/Jiaunig=",
+      "hash": "sha256-LB4xA5L0RJgTVdYAT3NPuacTN39HMbPHT20pD1eweEo=",
       "url": "js/BvrImageStorage.js"
     },
     {

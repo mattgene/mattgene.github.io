@@ -9,8 +9,8 @@ window.bvrImageStorage = {
             }
             const request = indexedDB.open("BvrImageCacheDB", this.dbVersion);
             request.onblocked = function () {
-                console.warn("¸ê®Æ®w¤É¯Å³Q«ÊÂê¡A½ĞÃö³¬¨ä¥L¤À­¶/App¦A­«¸Õ");
-                alert("½ĞÃö³¬©Ò¦³¬ÛÃöºô­¶¡A¥H§¹¦¨¨t²Î§ó·s¡C");
+                console.warn("ï¿½ï¿½Æ®wï¿½É¯Å³Qï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½ï¿½/Appï¿½Aï¿½ï¿½ï¿½ï¿½");
+                alert("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½tï¿½Î§ï¿½sï¿½C");
             };
             request.onupgradeneeded = (event) => {
                 const db = event.target.result;
@@ -23,7 +23,7 @@ window.bvrImageStorage = {
                 this.db.onversionchange = () => {
                     this.db.close();
                     this.db = null;
-                    alert("¨t²Î¤w¦b¨ä¥L¤À­¶§ó·s¡A½Ğ­«·s¸ü¤J¦¹­¶­±¡C");
+                    alert("ï¿½tï¿½Î¤wï¿½bï¿½ï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½Aï¿½Ğ­ï¿½ï¿½sï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½C");
                     location.reload();
                 };
                 console.log("BvrImageCacheDB initialized");
@@ -89,6 +89,19 @@ window.bvrImageStorage = {
             const store = transaction.objectStore("images");
             const request = store.getAllKeys();
             request.onsuccess = () => resolve(request.result);
+            request.onerror = (e) => reject(e.target.error);
+        });
+    },
+    clearAll: function () {
+        return new Promise((resolve, reject) => {
+            if (!this.db) {
+                reject("Database not initialized");
+                return;
+            }
+            const transaction = this.db.transaction(["images"], "readwrite");
+            const store = transaction.objectStore("images");
+            const request = store.clear();
+            request.onsuccess = () => resolve();
             request.onerror = (e) => reject(e.target.error);
         });
     }
