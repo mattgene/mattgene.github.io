@@ -1,1 +1,16 @@
 /* /Components/EmptyState.razor.rz.scp.css */
+.empty-state-container[b-c534qvwbds] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    text-align: center;
+    color: var(--mud-palette-text-secondary);
+    gap: 1rem;
+}
+
+.empty-state-container.compact[b-c534qvwbds] {
+    padding: 1rem;
+    gap: 0.5rem;
+}
